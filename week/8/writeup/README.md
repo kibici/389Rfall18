@@ -1,12 +1,12 @@
 Writeup 8 - Forensics II, Network Analysis and File Carving/Parsing
 =====
 
-Name: *PUT YOUR NAME HERE*
-Section: *PUT YOUR SECTION HERE*
+Name: Kaan Ibici
+Section: 0201
 
 I pledge on my honor that I have not given or received anyunauthorized assistance on this assignment or examination.
 
-Digital acknowledgement of honor pledge: *PUT YOUR NAME HERE*
+Digital acknowledgement of honor pledge: Kaan Ibici
 
 ## Assignment 8 Writeup
 
@@ -123,4 +123,4 @@ CONTENT:
 	2. Flag hidden in section 5 text: CMSC389R-{PlaIN_difF_FLAG}
 	3. Flag in png file in section 7: CMSC389R-{c0rn3rst0ne_airl1n3s_to_the_m00n}
 	4. Flag encoded in base 64 in section 9: CMSC389R-{h1dd3n-s3ct10n-1n-f1l3}
-	
+
